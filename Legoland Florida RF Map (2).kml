@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Legoland Florida RF Map</name>
+	<gx:CascadingStyle kml:id="__managed_style_1A09F5B3382B152C2405">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0DE010F9D92B152C2405">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07BE5D06262B152C2404">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0DE010F9D92B152C2405</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1A09F5B3382B152C2405</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0FDE8B9E482A9EA04844">
+		<name>Pirate Island Hotel</name>
+		<LookAt>
+			<longitude>-81.69162491092777</longitude>
+			<latitude>27.9879790771242</latitude>
+			<altitude>46.45416930394943</altitude>
+			<heading>-102.7903000603394</heading>
+			<tilt>25.60684699491889</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>31.40029890143524</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.691615961046,27.98794495087835,46.65924545089548</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B83FE953D2A9EA10091">
+		<name>Legoland Hotel Castle</name>
+		<LookAt>
+			<longitude>-81.6917926865366</longitude>
+			<latitude>27.98852488346979</latitude>
+			<altitude>46.86269184332797</altitude>
+			<heading>-163.8035327196534</heading>
+			<tilt>36.64081678456227</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>77.79773300140732</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69176428040279,27.98847894887563,46.84032868070865</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0075875AC42A9EA25D46">
+		<name>Ski Show</name>
+		<LookAt>
+			<longitude>-81.69281755507478</longitude>
+			<latitude>27.99264368822607</latitude>
+			<altitude>40.76798791197697</altitude>
+			<heading>4.031459637150288</heading>
+			<tilt>59.56663369294347</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>46.76622157498514</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69286271068854,27.9926029458188,40.50481594611934</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7277EC602A9EA63D35">
+		<name>Driving School</name>
+		<LookAt>
+			<longitude>-81.69103318345375</longitude>
+			<latitude>27.99440959064713</latitude>
+			<altitude>46.81382732713283</altitude>
+			<heading>54.25953293357401</heading>
+			<tilt>38.88093734922334</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>116.0600441188944</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.6910706047404,27.99462636501931,47.05366409534903</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D0E9C80262A9EA7D6EA">
+		<name>Fire Rescue Academy</name>
+		<LookAt>
+			<longitude>-81.69147723009245</longitude>
+			<latitude>27.99409112536268</latitude>
+			<altitude>54.26216568050572</altitude>
+			<heading>-20.76213332180225</heading>
+			<tilt>42.69460443567895</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>55.54641481125147</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69150560104573,27.99411978250463,46.67470435197041</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00D16698F92A9EA83DFA">
+		<name>LEGO City Stage</name>
+		<LookAt>
+			<longitude>-81.69060391083855</longitude>
+			<latitude>27.99354616553147</latitude>
+			<altitude>52.43679643284924</altitude>
+			<heading>-22.42080374553906</heading>
+			<tilt>15.51217016323613</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>51.94087848284653</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69057040508811,27.99362353584688,46.88394322806391</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B77BFE562A9EA8DB87">
+		<name>South Stadium EVENT</name>
+		<LookAt>
+			<longitude>-81.69208401118027</longitude>
+			<latitude>27.9919933611451</latitude>
+			<altitude>42.3599894050725</altitude>
+			<heading>3.84754229049791</heading>
+			<tilt>45.53315757887096</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57.66086664004435</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69214154720592,27.99197903995594,40.47578450830901</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D649D75B22A9EA9FB3A">
+		<name>OUTSIDE 4D Event</name>
+		<LookAt>
+			<longitude>-81.69114810879178</longitude>
+			<latitude>27.99028887028064</latitude>
+			<altitude>50.55633099850843</altitude>
+			<heading>95.23354171966582</heading>
+			<tilt>41.20265224751225</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>84.64859679216715</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.6911791592388,27.99030920070362,46.76014998143062</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0289A610722A9EAB24E4">
+		<name>DUPLO Schoolhouse</name>
+		<LookAt>
+			<longitude>-81.69089772124455</longitude>
+			<latitude>27.98974016468553</latitude>
+			<altitude>47.91628495902769</altitude>
+			<heading>98.52806207035138</heading>
+			<tilt>32.77181158563221</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>177.7650252112289</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69087098404144,27.98993215459524,48.32259538781835</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFA25ED512A9EABC5C2">
+		<name>Miniland EVENT</name>
+		<LookAt>
+			<longitude>-81.69114758050608</longitude>
+			<latitude>27.99081343998483</latitude>
+			<altitude>44.7512935769572</altitude>
+			<heading>92.68264106140718</heading>
+			<tilt>32.07696693196708</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>126.2939856394041</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69122900664452,27.99085863275954,44.68549558827164</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07928503F02A9EC143B6">
+		<name>4D INSIDE</name>
+		<LookAt>
+			<longitude>-81.69105418565212</longitude>
+			<latitude>27.99030884667814</latitude>
+			<altitude>47.01754350803784</altitude>
+			<heading>95.23358579993996</heading>
+			<tilt>41.20268011057368</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>89.35202123584531</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69115511407016,27.99035083061498,46.76224713333017</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06869326C32A9EEAB06F">
+		<name>Peppa Pig Theme Park</name>
+		<LookAt>
+			<longitude>-81.68928864234867</longitude>
+			<latitude>27.98717912820094</latitude>
+			<altitude>51.53716366424553</altitude>
+			<heading>3.847697339847352</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>328.0937989563245</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.68917049618697,27.98636797330323,47.74258778907272</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FF990E6A2A9F0CFB8A">
+		<name>EVENT Technic</name>
+		<LookAt>
+			<longitude>-81.6914973302118</longitude>
+			<latitude>27.99242448467457</latitude>
+			<altitude>51.98438406475962</altitude>
+			<heading>74.1218068912153</heading>
+			<tilt>31.24708297321853</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>81.38738108545114</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69137434826276,27.99238890695699,48.19957862093873</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD699A6892A9F0FB41F">
+		<name>Event Market Circle</name>
+		<LookAt>
+			<longitude>-81.69155703593859</longitude>
+			<latitude>27.98921257342151</latitude>
+			<altitude>47.06395973185999</altitude>
+			<heading>74.12188296878509</heading>
+			<tilt>31.24715460157977</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>96.74188009971658</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69159243204096,27.98921855923222,47.11660958989959</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D999ACE62A9F101BF6">
+		<name>Event Kingdoms Stage</name>
+		<LookAt>
+			<longitude>-81.69023068100044</longitude>
+			<latitude>27.99012508453092</latitude>
+			<altitude>47.65550669416921</altitude>
+			<heading>178.4363590787522</heading>
+			<tilt>48.2020339512627</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>43.27250847189134</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69022239443281,27.99013543403722,47.73544617279109</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09E21762582AAF188BEF">
+		<name>Master Model Builder</name>
+		<LookAt>
+			<longitude>-81.69159037302043</longitude>
+			<latitude>27.98855452976004</latitude>
+			<altitude>50.59026402110333</altitude>
+			<heading>-168.3168904926699</heading>
+			<tilt>25.58512450753112</tilt>
+			<gx:fovy>30.00000004</gx:fovy>
+			<range>73.95450459716812</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07BE5D06262B152C2404</styleUrl>
+		<Point>
+			<coordinates>-81.69148380826579,27.98851984179355,46.8643795516431</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
